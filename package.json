@@ -1,5 +1,5 @@
 {
-  "name": "HTTPCode",
+  "name": "httpcode",
   "version": "1.0.0",
   "description": "This is a CLI tool which could help you find what does HTTP status code mean.",
   "main": "index.js",
