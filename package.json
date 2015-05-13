@@ -11,8 +11,9 @@
     "url": "https://github.com/abruzzihraig/HTTPCode.git"
   },
   "keywords": [
-    "HTTP status code",
-    "HTTP description",
+    "HTTP",
+    "status",
+    "code",
     "cli"
   ],
   "author": "Yang He <abruzzi.hraig@gmail.com>",
