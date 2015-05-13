@@ -1,0 +1,28 @@
+{
+  "name": "HTTPCode",
+  "version": "1.0.0",
+  "description": "This is a CLI tool which could help you find what does HTTP status code mean.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abruzzihraig/HTTPCode.git"
+  },
+  "keywords": [
+    "HTTP",
+    "status",
+    "code"
+  ],
+  "author": "Yang He <abruzzi.hraig@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abruzzihraig/HTTPCode/issues"
+  },
+  "homepage": "https://github.com/abruzzihraig/HTTPCode",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "yargs": "^3.9.0"
+  }
+}
