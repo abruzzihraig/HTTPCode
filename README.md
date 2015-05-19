@@ -3,7 +3,7 @@ This is a CLI tool which could help you find out what does HTTP status code mean
 
 # Display
 You can type something like below:  
-`$ hcode 404 500`   
+`$ hcode 403 500`   
 then output:
 ```
 ┌────────────────────┬──────────────────────────────────────────────────┐
